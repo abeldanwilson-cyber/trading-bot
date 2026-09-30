@@ -1,0 +1,7 @@
+alpaca-py
+pandas
+numpy
+schedule
+streamlit
+plotly
+requests
